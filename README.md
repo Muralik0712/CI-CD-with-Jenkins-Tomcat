@@ -91,7 +91,7 @@ http://<jenkins-ip>:8080
 * Add GitHub repo:
 
 ```
-https://github.com/Muralik0712/CI-CD-with-Jenkins_Tomcat.git
+https://github.com/Muralik0712/CI-CD-with-Jenkins-Tomcat.git
 ```
 
 * Enable:
@@ -267,5 +267,5 @@ Remote Access Issue:
 Murali Prasad K
 
 GitHub:
-//https://github.com/Muralik0712/CI-CD-with-Jenkins_Tomcat.git
+//https://github.com/Muralik0712/CI-CD-with-Jenkins-Tomcat.git
 
